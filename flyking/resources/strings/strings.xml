@@ -1,0 +1,33 @@
+<strings>
+    <string id="AppName">Flyking</string>
+
+    <string id="altitude">ALT</string>
+    <string id="speed">SPD</string>
+    <string id="heading">HDG</string>
+    <string id="vertical_speed">VS</string>
+    <string id="temperature">TMP</string>
+    
+    <string id="settings">Settings</string>
+    <string id="time">Time</string>
+    <string id="local">Local</string>
+    <string id="utm">UTM</string>
+    
+    <string id="qnh_chart">QNH</string>
+    <string id="qnh_unit">mbar</string>
+    
+    <string id="temp_chart">Temperature</string>
+    <string id="temp_unit">celsius</string>
+    
+    <string id="altitude_chart">Altitude</string>
+    <string id="altitude_unit">feet</string>
+    
+    <string id="hdg_chart">Heading</string>
+    <string id="hdg_unit">degrees</string>
+    
+    <string id="speed_chart">Indicated Speed</string>
+    <string id="speed_unit">knots</string>
+    
+    <string id="vs_chart">Vertical Speed</string>
+    <string id="vs_unit">feet/min</string>
+    
+</strings>

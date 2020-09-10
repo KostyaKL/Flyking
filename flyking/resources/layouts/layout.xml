@@ -1,0 +1,24 @@
+<layout id="MainLayout">
+    <drawable id="lines"/>
+    <label x="25%" y="20%" text="@Strings.speed" color="Graphics.COLOR_DK_GREEN" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_XTINY" />
+    <label x="25%" y="50%" text="@Strings.heading" color="Graphics.COLOR_DK_GREEN" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_XTINY" />
+    <label x="75%" y="20%" text="@Strings.vertical_speed" color="Graphics.COLOR_DK_GREEN" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_XTINY" />
+    <label x="75%" y="50%" text="@Strings.altitude" color="Graphics.COLOR_DK_GREEN" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_XTINY" />
+    <label x="50%" y="40%" text="@Strings.temperature" color="Graphics.COLOR_DK_GREEN" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_XTINY" />
+    
+    
+    <label id="clock" x="40%" y="3%" text="00:00" color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_SMALL" />
+    <label id="gps" x="65%" y="3%" text="GPS" color="Graphics.COLOR_RED" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_SMALL" />
+    
+    <label id="speed_val" x="25%" y="30%" text="000" color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_LARGE" />
+    <label id="heading_val" x="25%" y="60%" text="000" color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_LARGE" />
+    <label id="vs_val" x="75%" y="30%" text="000" color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_LARGE" />
+    <label id="altitude_val" x="75%" y="60%" text="0000" color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_LARGE" />
+    
+    <label id="qnh_val" x="75%" y="70%" text="0000" color="Graphics.COLOR_BLUE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_XTINY" />
+    <label id="temp_val" x="50%" y="48%" text="00" color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_SMALL" />
+    
+    <label id="timer" x="40%" y="80%" text="00:00" color="Graphics.COLOR_BLACK" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_SMALL" />
+    <label id="rec" x="65%" y="80%" text="REC" color="Graphics.COLOR_DK_GRAY" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_SMALL" />
+    
+</layout>

@@ -1,0 +1,12 @@
+<resources>
+<drawable-list id="lines" background="Gfx.COLOR_WHITE">
+<shape type="polygon" points="[[50%, 20%],[50%, 80%],[50%, 80%]]" color="Graphics.COLOR_DK_GREEN" />
+
+<shape type="polygon" points="[[0%, 20%],[100%, 20%],[100%, 20%]]" color="Graphics.COLOR_DK_GREEN" />
+<shape type="polygon" points="[[0%, 50%],[100%, 50%],[100%, 50%]]" color="Graphics.COLOR_DK_GREEN" />
+<shape type="polygon" points="[[0%, 80%],[100%, 80%],[100%, 80%]]" color="Graphics.COLOR_DK_GREEN" />
+
+<shape type="circle" x="50%" y="50%" radius="35" border_color="Graphics.COLOR_DK_GREEN" border_width="1" color="Graphics.COLOR_WHITE" />
+
+</drawable-list>
+</resources>

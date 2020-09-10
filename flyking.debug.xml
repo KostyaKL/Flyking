@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\User\Documents\programing\garmin\flyking\flyking\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="3" lineNum="24" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="3" lineNum="25" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="4" lineNum="29" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="4" lineNum="30" pc="268435483" symbol="onStart"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="4" lineNum="35" pc="268435615" symbol="onStart"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="4" lineNum="36" pc="268435651" symbol="onStart"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="5" lineNum="40" pc="268435693" symbol="onStop"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="5" lineNum="41" pc="268435697" symbol="onStop"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="5" lineNum="42" pc="268435715" symbol="onStop"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="5" lineNum="43" pc="268435751" symbol="onStop"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="5" lineNum="44" pc="268435769" symbol="onStop"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="5" lineNum="45" pc="268435787" symbol="onStop"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="5" lineNum="47" pc="268435799" symbol="onStop"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="5" lineNum="48" pc="268435843" symbol="onStop"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="6" lineNum="52" pc="268435867" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="6" lineNum="53" pc="268435871" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="6" lineNum="54" pc="268435911" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="57" pc="268435971" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="58" pc="268435975" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="59" pc="268435991" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="60" pc="268435998" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="61" pc="268436021" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="62" pc="268436039" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="64" pc="268436049" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="65" pc="268436088" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="68" pc="268436098" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="71" pc="268436105" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="75" pc="268436131" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="76" pc="268436142" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="77" pc="268436153" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="78" pc="268436163" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="79" pc="268436176" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="80" pc="268436189" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="81" pc="268436202" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="82" pc="268436231" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="85" pc="268436250" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="86" pc="268436263" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="87" pc="268436284" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="88" pc="268436346" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="89" pc="268436434" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="91" pc="268436455" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="92" pc="268436478" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="93" pc="268436499" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="95" pc="268436520" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="96" pc="268436539" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="97" pc="268436565" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="98" pc="268436582" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="99" pc="268436601" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="101" pc="268436617" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="102" pc="268436634" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="103" pc="268436653" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="105" pc="268436669" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="106" pc="268436676" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="107" pc="268436693" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="108" pc="268436710" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="111" pc="268436744" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="115" pc="268436778" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="116" pc="268436795" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="119" pc="268436823" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="7" lineNum="122" pc="268436848" symbol="refresh"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="8" lineNum="126" pc="268436878" symbol="buttonPress"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="8" lineNum="127" pc="268436882" symbol="buttonPress"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="8" lineNum="128" pc="268436893" symbol="buttonPress"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="8" lineNum="129" pc="268436903" symbol="buttonPress"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="8" lineNum="132" pc="268436989" symbol="buttonPress"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="8" lineNum="134" pc="268436999" symbol="buttonPress"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="8" lineNum="135" pc="268437031" symbol="buttonPress"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="9" lineNum="138" pc="268437048" symbol="exitConfirm"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="9" lineNum="139" pc="268437052" symbol="exitConfirm"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="10" lineNum="142" pc="268437136" symbol="exitFunc"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="10" lineNum="143" pc="268437140" symbol="exitFunc"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="11" lineNum="146" pc="268437157" symbol="saveFunc"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="11" lineNum="147" pc="268437161" symbol="saveFunc"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="11" lineNum="148" pc="268437197" symbol="saveFunc"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="11" lineNum="149" pc="268437215" symbol="saveFunc"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="11" lineNum="150" pc="268437233" symbol="saveFunc"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="11" lineNum="151" pc="268437242" symbol="saveFunc"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="12" lineNum="155" pc="268437256" symbol="onPosition"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="12" lineNum="156" pc="268437260" symbol="onPosition"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="12" lineNum="10" pc="268441889" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="12" lineNum="21" pc="268441903" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\globalVars.mc" id="15" lineNum="6" pc="268437287" symbol="set_rec_stat"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\globalVars.mc" id="15" lineNum="7" pc="268437291" symbol="set_rec_stat"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\globalVars.mc" id="16" lineNum="11" pc="268437302" symbol="getInstance"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\globalVars.mc" id="16" lineNum="12" pc="268437306" symbol="getInstance"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\globalVars.mc" id="16" lineNum="13" pc="268437319" symbol="getInstance"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\globalVars.mc" id="16" lineNum="15" pc="268437352" symbol="getInstance"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\exitConfirmationDelegate.mc" id="18" lineNum="6" pc="268437365" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\exitConfirmationDelegate.mc" id="18" lineNum="7" pc="268437369" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\exitConfirmationDelegate.mc" id="19" lineNum="10" pc="268437388" symbol="onResponse"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\exitConfirmationDelegate.mc" id="19" lineNum="11" pc="268437392" symbol="onResponse"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\exitConfirmationDelegate.mc" id="19" lineNum="12" pc="268437410" symbol="onResponse"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\exitConfirmationDelegate.mc" id="19" lineNum="15" pc="268437434" symbol="onResponse"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\exitConfirmationDelegate.mc" id="19" lineNum="16" pc="268437455" symbol="onResponse"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingDelegate.mc" id="21" lineNum="6" pc="268437481" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingDelegate.mc" id="21" lineNum="7" pc="268437485" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingDelegate.mc" id="22" lineNum="10" pc="268437504" symbol="onMenu"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingDelegate.mc" id="22" lineNum="11" pc="268437508" symbol="onMenu"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingDelegate.mc" id="22" lineNum="12" pc="268437592" symbol="onMenu"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingDelegate.mc" id="23" lineNum="20" pc="268437596" symbol="onSwipe"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingDelegate.mc" id="23" lineNum="22" pc="268437600" symbol="onSwipe"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingDelegate.mc" id="23" lineNum="23" pc="268437620" symbol="onSwipe"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingDelegate.mc" id="23" lineNum="25" pc="268437648" symbol="onSwipe"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="25" lineNum="12" pc="268437652" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="25" lineNum="13" pc="268437656" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="25" lineNum="14" pc="268437669" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="26" lineNum="18" pc="268437688" symbol="onLayout"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="26" lineNum="19" pc="268437692" symbol="onLayout"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="27" lineNum="26" pc="268437730" symbol="onShow"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="30" pc="268437735" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="32" pc="268437739" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="33" pc="268437756" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="34" pc="268437832" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="35" pc="268437856" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="37" pc="268437870" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="39" pc="268437894" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="41" pc="268437911" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="43" pc="268437940" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="44" pc="268437957" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="47" pc="268437986" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="50" pc="268438012" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="51" pc="268438036" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="52" pc="268438047" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="55" pc="268438076" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="58" pc="268438102" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="59" pc="268438126" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="61" pc="268438146" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="62" pc="268438170" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="63" pc="268438194" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="64" pc="268438218" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="66" pc="268438242" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="67" pc="268438255" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="68" pc="268438277" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="69" pc="268438314" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="69" pc="268438325" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="70" pc="268438338" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="71" pc="268438360" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="72" pc="268438367" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="73" pc="268438395" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="74" pc="268438423" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="75" pc="268438451" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="28" lineNum="79" pc="268438482" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="29" lineNum="85" pc="268438503" symbol="onHide"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="30" lineNum="88" pc="268438508" symbol="gpsStat"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="30" lineNum="89" pc="268438512" symbol="gpsStat"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="31" lineNum="93" pc="268438523" symbol="recording"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="31" lineNum="94" pc="268438527" symbol="recording"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="32" lineNum="97" pc="268438538" symbol="setTimer"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="32" lineNum="98" pc="268438542" symbol="setTimer"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="33" lineNum="101" pc="268438553" symbol="setPosition"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingView.mc" id="33" lineNum="102" pc="268438557" symbol="setPosition"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\saveConfirmationDelegate.mc" id="35" lineNum="6" pc="268438568" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\saveConfirmationDelegate.mc" id="35" lineNum="7" pc="268438572" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\saveConfirmationDelegate.mc" id="36" lineNum="10" pc="268438591" symbol="onResponse"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\saveConfirmationDelegate.mc" id="36" lineNum="11" pc="268438595" symbol="onResponse"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\saveConfirmationDelegate.mc" id="36" lineNum="12" pc="268438613" symbol="onResponse"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\saveConfirmationDelegate.mc" id="36" lineNum="13" pc="268438631" symbol="onResponse"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\saveConfirmationDelegate.mc" id="36" lineNum="16" pc="268438655" symbol="onResponse"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\saveConfirmationDelegate.mc" id="36" lineNum="17" pc="268438676" symbol="onResponse"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingMenuDelegate.mc" id="38" lineNum="6" pc="268438702" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingMenuDelegate.mc" id="38" lineNum="7" pc="268438706" symbol="initialize"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingMenuDelegate.mc" id="39" lineNum="10" pc="268438725" symbol="onSelect"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingMenuDelegate.mc" id="39" lineNum="11" pc="268438729" symbol="onSelect"/>
+        <entry filename="Rez" id="43" lineNum="11" pc="268438757" symbol="initialize"/>
+        <entry filename="Rez" id="43" lineNum="12" pc="268438761" symbol="initialize"/>
+        <entry filename="Rez" id="44" lineNum="15" pc="268438786" symbol="draw"/>
+        <entry filename="Rez" id="44" lineNum="16" pc="268438790" symbol="draw"/>
+        <entry filename="Rez" id="44" lineNum="17" pc="268438826" symbol="draw"/>
+        <entry filename="Rez" id="44" lineNum="18" pc="268438858" symbol="draw"/>
+        <entry filename="Rez" id="44" lineNum="20" pc="268438894" symbol="draw"/>
+        <entry filename="Rez" id="44" lineNum="21" pc="268438930" symbol="draw"/>
+        <entry filename="Rez" id="44" lineNum="23" pc="268439068" symbol="draw"/>
+        <entry filename="Rez" id="44" lineNum="24" pc="268439104" symbol="draw"/>
+        <entry filename="Rez" id="44" lineNum="26" pc="268439242" symbol="draw"/>
+        <entry filename="Rez" id="44" lineNum="27" pc="268439278" symbol="draw"/>
+        <entry filename="Rez" id="44" lineNum="29" pc="268439416" symbol="draw"/>
+        <entry filename="Rez" id="44" lineNum="30" pc="268439452" symbol="draw"/>
+        <entry filename="Rez" id="48" lineNum="47" pc="268439591" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="49" pc="268439603" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="50" pc="268439643" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="51" pc="268439656" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="53" pc="268439672" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="54" pc="268439824" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="55" pc="268439976" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="56" pc="268440128" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="57" pc="268440280" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="58" pc="268440426" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="59" pc="268440572" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="60" pc="268440718" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="61" pc="268440864" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="62" pc="268441010" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="63" pc="268441156" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="64" pc="268441302" symbol="MainLayout"/>
+        <entry filename="Rez" id="48" lineNum="66" pc="268441448" symbol="MainLayout"/>
+        <entry filename="Rez" id="51" lineNum="79" pc="268441586" symbol="initialize"/>
+        <entry filename="Rez" id="51" lineNum="80" pc="268441590" symbol="initialize"/>
+        <entry filename="Rez" id="51" lineNum="81" pc="268441646" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="53" symbol="defaultAlign"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="8389344" symbol="seconds"/>
+        <entry id="8391711" symbol="constellations"/>
+        <entry id="52" method="true" symbol="setPosition"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="5" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389849" symbol="units"/>
+        <entry id="18" method="true" symbol="set_rec_stat"/>
+        <entry id="8391715" symbol="acquisitionType"/>
+        <entry field="true" id="45" symbol="utm"/>
+        <entry id="37" method="true" symbol="MainLayout"/>
+        <entry field="true" id="48" symbol="timer"/>
+        <entry id="15" object="true" symbol="saveConfirmationDelegate"/>
+        <entry field="true" id="8388890" symbol="sport"/>
+        <entry id="16" object="true" symbol="flykingMenuDelegate"/>
+        <entry field="true" id="39" symbol="qnh_unit"/>
+        <entry id="32" method="true" symbol="onPosition"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8389108" method="true" symbol="onResponse"/>
+        <entry field="true" id="49" symbol="posnInfo"/>
+        <entry field="true" id="44" symbol="AppName"/>
+        <entry field="true" id="8388963" symbol="altitude"/>
+        <entry id="9" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="31" method="true" symbol="saveFunc"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="43" symbol="local"/>
+        <entry id="14" object="true" symbol="flykingView"/>
+        <entry field="true" id="41" symbol="vertical_speed"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="25" symbol="qnh_fit_field"/>
+        <entry id="3" module="true" symbol="globals/Rez"/>
+        <entry id="11" object="true" symbol="globalVars"/>
+        <entry field="true" id="20" symbol="global_vars"/>
+        <entry field="true" id="19" symbol="&lt;globals/globalVars/&lt;&gt;instance&gt;"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8390439" symbol="disabled"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="34" module="true" symbol="Menus"/>
+        <entry id="50" method="true" symbol="gpsStat"/>
+        <entry id="7" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="12" object="true" symbol="exitConfirmationDelegate"/>
+        <entry field="true" id="21" symbol="secTimer"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="42" symbol="time"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="8390041" method="true" symbol="mode"/>
+        <entry id="8" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="46" symbol="gps_stat"/>
+        <entry id="4" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="17" symbol="&lt;globals/globalVars/&lt;&gt;rec_stat&gt;"/>
+        <entry id="36" object="true" symbol="MainMenu"/>
+        <entry id="28" method="true" symbol="buttonPress"/>
+        <entry id="10" object="true" symbol="flykingApp"/>
+        <entry field="true" id="8390438" symbol="enabled"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry field="true" id="47" symbol="rec_stat"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8391120" object="true" symbol="lines"/>
+        <entry field="true" id="8388965" symbol="heading"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="35" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389889" method="true" symbol="getInstance"/>
+        <entry id="13" object="true" symbol="flykingDelegate"/>
+        <entry field="true" id="8389342" symbol="hours"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="8388958" symbol="speed"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="22" method="true" symbol="recording"/>
+        <entry id="51" method="true" symbol="setTimer"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="27" method="true" symbol="refresh"/>
+        <entry field="true" id="8388892" symbol="name"/>
+        <entry field="true" id="38" symbol="settings"/>
+        <entry id="29" method="true" symbol="exitConfirm"/>
+        <entry id="2" module="true" symbol="globals/globalVars"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="23" symbol="saved"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389847" symbol="mesgType"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="26" symbol="flykingViews"/>
+        <entry id="33" module="true" symbol="Layouts"/>
+        <entry field="true" id="8389343" symbol="minutes"/>
+        <entry field="true" id="40" symbol="qnh_chart"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry id="6" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="24" symbol="session"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="8389642" symbol="title"/>
+        <entry id="30" method="true" symbol="exitFunc"/>
+        <entry id="8389101" method="true" symbol="onSwipe"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435693" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435867" name="state" stackId="1" startPc="268435693"/>
+        <entry endPc="268436874" name="timer" stackId="3" startPc="268436142"/>
+        <entry endPc="268436877" name="gpsAccuracy" stackId="2" startPc="268435975"/>
+        <entry endPc="268436877" name="stat" stackId="1" startPc="268435975"/>
+        <entry arg="true" endPc="268437287" name="info" stackId="1" startPc="268437256"/>
+        <entry arg="true" endPc="268437302" name="stat" stackId="1" startPc="268437287"/>
+        <entry arg="true" endPc="268437481" name="response" stackId="1" startPc="268437388"/>
+        <entry arg="true" endPc="268437652" name="swipeEvent" stackId="1" startPc="268437596"/>
+        <entry arg="true" endPc="268437730" name="dc" stackId="1" startPc="268437688"/>
+        <entry endPc="268438479" name="posVs" stackId="15" startPc="268438255"/>
+        <entry endPc="268438479" name="posAlt" stackId="14" startPc="268438255"/>
+        <entry endPc="268438479" name="posSpeed" stackId="12" startPc="268438255"/>
+        <entry endPc="268438479" name="posHdg" stackId="13" startPc="268438255"/>
+        <entry endPc="268438502" name="timeString" stackId="3" startPc="268437739"/>
+        <entry endPc="268438502" name="alt_val" stackId="10" startPc="268437739"/>
+        <entry endPc="268438502" name="speed_val" stackId="8" startPc="268437739"/>
+        <entry endPc="268438502" name="clockTime" stackId="2" startPc="268437739"/>
+        <entry endPc="268438502" name="clock_lable" stackId="4" startPc="268437739"/>
+        <entry endPc="268438502" name="vs_val" stackId="11" startPc="268437739"/>
+        <entry endPc="268438502" name="hdg_val" stackId="9" startPc="268437739"/>
+        <entry endPc="268438502" name="timere_lable" stackId="7" startPc="268437739"/>
+        <entry endPc="268438502" name="rec_label" stackId="6" startPc="268437739"/>
+        <entry endPc="268438502" name="gps_label" stackId="5" startPc="268437739"/>
+        <entry arg="true" endPc="268438503" name="dc" stackId="1" startPc="268437735"/>
+        <entry arg="true" endPc="268438523" name="stat" stackId="1" startPc="268438508"/>
+        <entry arg="true" endPc="268438538" name="rec" stackId="1" startPc="268438523"/>
+        <entry arg="true" endPc="268438553" name="newTimer" stackId="1" startPc="268438538"/>
+        <entry arg="true" endPc="268438568" name="info" stackId="1" startPc="268438553"/>
+        <entry arg="true" endPc="268438702" name="response" stackId="1" startPc="268438591"/>
+        <entry arg="true" endPc="268438757" name="item" stackId="1" startPc="268438725"/>
+        <entry arg="true" endPc="268439591" name="dc" stackId="1" startPc="268438786"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_altitude_val" stackId="12" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_rec" stackId="14" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_1633874652" stackId="3" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_timer" stackId="13" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_heading_val" stackId="10" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_gps" stackId="8" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_speed_val" stackId="9" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_2025205133" stackId="4" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_clock" stackId="7" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_1430783572" stackId="5" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_custom_drawable_lines" stackId="2" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_vs_val" stackId="11" startPc="268439603"/>
+        <entry endPc="268441585" name="rez_cmp_local_text_1862954798" stackId="6" startPc="268439603"/>
+        <entry arg="true" endPc="268441586" name="dc" stackId="1" startPc="268439591"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="198" parentId="globals" symbolId="globalVars" type="class"/>
+        <dataEntry offset="308" parentId="globals" symbolId="flykingDelegate" type="class"/>
+        <dataEntry offset="371" parentId="globals" symbolId="saveConfirmationDelegate" type="class"/>
+        <dataEntry offset="426" parentId="globals" symbolId="flykingApp" type="class"/>
+        <dataEntry offset="625" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="704" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="751" parentId="Drawables" symbolId="lines" type="class"/>
+        <dataEntry offset="806" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="845" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="892" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="923" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="962" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="993" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1112" parentId="globals" symbolId="exitConfirmationDelegate" type="class"/>
+        <dataEntry offset="1167" parentId="globals" symbolId="flykingMenuDelegate" type="class"/>
+        <dataEntry offset="1222" parentId="globals" symbolId="flykingView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="flykingApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="flykingApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="flykingApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="flykingApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="refresh" parent="flykingApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="buttonPress" parent="flykingApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="exitConfirm" parent="flykingApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="exitFunc" parent="flykingApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="saveFunc" parent="flykingApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPosition" parent="flykingApp">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="set_rec_stat" parent="globalVars">
+            <param id="stat"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInstance" parent="globalVars">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="exitConfirmationDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onResponse" parent="exitConfirmationDelegate">
+            <param id="response"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="flykingDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="flykingDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSwipe" parent="flykingDelegate">
+            <param id="swipeEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="flykingView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="flykingView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="flykingView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="flykingView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="flykingView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="gpsStat" parent="flykingView">
+            <param id="stat"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="recording" parent="flykingView">
+            <param id="rec"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setTimer" parent="flykingView">
+            <param id="newTimer"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setPosition" parent="flykingView">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="saveConfirmationDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onResponse" parent="saveConfirmationDelegate">
+            <param id="response"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="flykingMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="flykingMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="lines">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="lines">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

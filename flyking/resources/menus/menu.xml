@@ -1,0 +1,4 @@
+<menu2 id="MainMenu" title="@Strings.settings">
+<toggle-menu-item id="defaultAlign" label="@Strings.time" subLabel="@Strings.local" disabledSubLabel="@Strings.utm" checked="true" />
+
+</menu2>

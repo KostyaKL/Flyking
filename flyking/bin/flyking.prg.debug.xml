@@ -121,8 +121,8 @@
         <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="13" lineNum="232" pc="268438672" symbol="onSensor"/>
         <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="13" lineNum="233" pc="268438676" symbol="onSensor"/>
         <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="13" lineNum="234" pc="268438702" symbol="onSensor"/>
-        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="13" lineNum="12" pc="268444201" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="13" lineNum="43" pc="268444215" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="13" lineNum="12" pc="268444769" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\flykingApp.mc" id="13" lineNum="43" pc="268444783" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\globalVars.mc" id="16" lineNum="6" pc="268438713" symbol="set_rec_stat"/>
         <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\globalVars.mc" id="16" lineNum="7" pc="268438717" symbol="set_rec_stat"/>
         <entry filename="C:\\Users\\User\\Documents\\programing\\garmin\\flyking\\flyking\\source\\globalVars.mc" id="17" lineNum="11" pc="268438728" symbol="getInstance"/>
@@ -225,43 +225,47 @@
         <entry filename="Rez" id="51" lineNum="12" pc="268440473" symbol="initialize"/>
         <entry filename="Rez" id="52" lineNum="15" pc="268440498" symbol="draw"/>
         <entry filename="Rez" id="52" lineNum="16" pc="268440502" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="17" pc="268440538" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="18" pc="268440570" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="20" pc="268440606" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="21" pc="268440642" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="23" pc="268440780" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="24" pc="268440816" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="26" pc="268440954" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="27" pc="268440990" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="29" pc="268441128" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="30" pc="268441164" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="32" pc="268441302" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="33" pc="268441338" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="34" pc="268441365" symbol="draw"/>
-        <entry filename="Rez" id="52" lineNum="35" pc="268441401" symbol="draw"/>
-        <entry filename="Rez" id="56" lineNum="52" pc="268441429" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="54" pc="268441441" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="55" pc="268441481" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="56" pc="268441494" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="58" pc="268441510" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="59" pc="268441662" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="60" pc="268441814" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="61" pc="268441966" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="62" pc="268442118" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="63" pc="268442270" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="64" pc="268442416" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="65" pc="268442562" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="66" pc="268442708" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="67" pc="268442854" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="68" pc="268443000" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="69" pc="268443146" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="70" pc="268443292" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="71" pc="268443438" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="72" pc="268443584" symbol="MainLayout"/>
-        <entry filename="Rez" id="56" lineNum="74" pc="268443730" symbol="MainLayout"/>
-        <entry filename="Rez" id="59" lineNum="87" pc="268443898" symbol="initialize"/>
-        <entry filename="Rez" id="59" lineNum="88" pc="268443902" symbol="initialize"/>
-        <entry filename="Rez" id="59" lineNum="89" pc="268443958" symbol="initialize"/>
+        <entry filename="Rez" id="52" lineNum="17" pc="268440515" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="19" pc="268440528" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="20" pc="268440564" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="21" pc="268440602" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="23" pc="268440638" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="24" pc="268440674" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="26" pc="268440902" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="27" pc="268440938" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="29" pc="268441166" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="30" pc="268441202" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="32" pc="268441430" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="33" pc="268441466" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="35" pc="268441694" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="36" pc="268441730" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="37" pc="268441787" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="38" pc="268441823" symbol="draw"/>
+        <entry filename="Rez" id="56" lineNum="55" pc="268441881" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="57" pc="268441893" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="58" pc="268441906" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="60" pc="268441919" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="61" pc="268441959" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="62" pc="268441972" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="64" pc="268441988" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="65" pc="268442146" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="66" pc="268442304" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="67" pc="268442462" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="68" pc="268442620" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="69" pc="268442778" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="70" pc="268442930" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="71" pc="268443082" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="72" pc="268443234" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="73" pc="268443386" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="74" pc="268443538" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="75" pc="268443690" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="76" pc="268443842" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="77" pc="268443994" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="78" pc="268444146" symbol="MainLayout"/>
+        <entry filename="Rez" id="56" lineNum="80" pc="268444298" symbol="MainLayout"/>
+        <entry filename="Rez" id="59" lineNum="93" pc="268444466" symbol="initialize"/>
+        <entry filename="Rez" id="59" lineNum="94" pc="268444470" symbol="initialize"/>
+        <entry filename="Rez" id="59" lineNum="95" pc="268444526" symbol="initialize"/>
     </pcToLineNum>
     <symbolTable>
         <entry field="true" id="71" symbol="temp_unit"/>
@@ -451,24 +455,28 @@
         <entry arg="true" endPc="268440280" name="temperature" stackId="1" startPc="268440265"/>
         <entry arg="true" endPc="268440414" name="response" stackId="1" startPc="268440303"/>
         <entry arg="true" endPc="268440469" name="item" stackId="1" startPc="268440437"/>
-        <entry arg="true" endPc="268441429" name="dc" stackId="1" startPc="268440498"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_altitude_val" stackId="13" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_rec" stackId="17" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_timer" stackId="16" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_heading_val" stackId="11" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_gps" stackId="9" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_temp_val" stackId="15" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_speed_val" stackId="10" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_clock" stackId="8" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_qnh_val" stackId="14" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_8247201295" stackId="7" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_1471415391" stackId="4" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_1136853295" stackId="5" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_custom_drawable_lines" stackId="2" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_1994941507" stackId="3" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_1095839651" stackId="6" startPc="268441441"/>
-        <entry endPc="268443897" name="rez_cmp_local_text_vs_val" stackId="12" startPc="268441441"/>
-        <entry arg="true" endPc="268443898" name="dc" stackId="1" startPc="268441429"/>
+        <entry endPc="268441880" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268440502"/>
+        <entry endPc="268441880" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268440502"/>
+        <entry arg="true" endPc="268441881" name="dc" stackId="1" startPc="268440498"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_1268217436" stackId="5" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_1104737096" stackId="6" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_altitude_val" stackId="15" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_1409513259" stackId="7" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_qnh_val" stackId="16" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_temp_val" stackId="17" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_gps" stackId="11" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_1433155638" stackId="8" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_clock" stackId="10" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_heading_val" stackId="13" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_9886493461" stackId="9" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_custom_drawable_lines" stackId="4" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_vs_val" stackId="14" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_speed_val" stackId="12" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_timer" stackId="18" startPc="268441893"/>
+        <entry endPc="268444465" name="rez_cmp_local_text_rec" stackId="19" startPc="268441893"/>
+        <entry arg="true" endPc="268444466" name="dc" stackId="1" startPc="268441881"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>

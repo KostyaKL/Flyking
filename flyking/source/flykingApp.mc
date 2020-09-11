@@ -17,8 +17,7 @@ class flykingApp extends Application.AppBase {
 	var recording = false;
 	var saved = false;
 	var session = null;
-	
-	
+
 	var qnh_fit_field = null;
 	var temp_fit_field = null;
 	var speed_fit_field = null;

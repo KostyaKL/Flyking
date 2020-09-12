@@ -8,10 +8,8 @@ class saveConfirmationDelegate extends WatchUi.ConfirmationDelegate {
     }
 
     function onResponse(response) {
-    	System.println(response);
         if (response == WatchUi.CONFIRM_NO) {
-            System.println("dont save");
-            
+                        
         } else {
             System.println("save activity");
             App.getApp().saveFunc();

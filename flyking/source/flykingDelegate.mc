@@ -21,12 +21,4 @@ class flykingDelegate extends WatchUi.BehaviorDelegate {
         }
     	return true;
     }
-    
-//    function onSwipe(swipeEvent) {
-//        //System.println(swipeEvent.getDirection()); // e.g. SWIPE_RIGHT = 1
-//        if(swipeEvent.getDirection() == 1){
-//        	App.getApp().exitConfirm();
-//        }
-//        return true;
-//    }
 }

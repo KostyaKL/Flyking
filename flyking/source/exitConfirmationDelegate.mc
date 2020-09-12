@@ -9,8 +9,7 @@ class exitConfirmationDelegate extends WatchUi.ConfirmationDelegate {
 
     function onResponse(response) {
         if (response == WatchUi.CONFIRM_NO) {
-            System.println("dont exit");
-            //System.exit();
+            
         } else {
             System.println("exit confirm");
             App.getApp().exitFunc();

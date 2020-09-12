@@ -7,8 +7,7 @@ class flykingView extends WatchUi.View {
 	var gps_stat = 0;
 	var rec_stat = false;
 	var timer = "00:00";
-	var posnInfo = null;
-	var sensInfo = null;
+	var timeString = "00:00";
 	
 	var posAlt = 0;
 	var posVs = 0;
@@ -17,16 +16,7 @@ class flykingView extends WatchUi.View {
 	var sensQnh = 0;
 	var posHdg = 0;
 	
-	var clockTime = null;
-	var posTime = 0;
-	var prevAlt = 0;
-	var prevEpoch = 0;
-	
     function initialize() {
-    	clockTime = Sys.getClockTime();
-		posTime = clockTime.hour*3600 + clockTime.min*60 + clockTime.sec;
-    	prevEpoch = posTime;
-    	gps_stat = 0;
         View.initialize();
     }
 
@@ -45,8 +35,6 @@ class flykingView extends WatchUi.View {
     // Update the view
     function onUpdate(dc) {
     	// Get and show the current time
-   		clockTime = Sys.getClockTime();
-   		var timeString = Lang.format("$1$:$2$",[clockTime.hour, clockTime.min.format("%.2d")]);
    		var clock_lable = View.findDrawableById("clock");
    		clock_lable.setText(timeString);
    		
@@ -109,14 +97,6 @@ class flykingView extends WatchUi.View {
     	timer = newTimer;
     }
     
-    function setPosition(info){
-    	posnInfo = info;
-    }
-    
-    function setSensor(sensor){
-    	sensInfo = sensor;
-    }
-    
     function setSpeed(speed){
     	posSpeed = speed;
     }
@@ -140,5 +120,9 @@ class flykingView extends WatchUi.View {
     function setTemperature(temperature){
     	sensTemp = temperature;
     }
+
+	function setClock(clock){
+		timeString = clock;
+	}
 
 }

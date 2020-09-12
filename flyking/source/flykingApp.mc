@@ -92,7 +92,10 @@ class flykingApp extends Application.AppBase {
     }
     
     function refresh(){
-    	Ui.requestUpdate();
+		clockTime = Sys.getClockTime();
+		var timeString = Lang.format("$1$:$2$",[clockTime.hour, clockTime.min.format("%.2d")]);
+		flykingViews[0].setClock(timeString);
+
     	var stat = 0;
 		var gpsAccuracy = Position.getInfo().accuracy;
 		if (gpsAccuracy == Position.QUALITY_GOOD){
@@ -104,7 +107,6 @@ class flykingApp extends Application.AppBase {
 		else{
 			stat = 0;
 		}
-    	
     	flykingViews[0].gpsStat(stat);
     	
     	var ActivityInfo = Activity.getActivityInfo();  // ... we need *raw ambient* pressure
@@ -121,7 +123,6 @@ class flykingApp extends Application.AppBase {
     		flykingViews[0].setTemperature(temperature);
     	}
     	
-  		
    		if (posInfo != null){
    			spd = posInfo.speed * 1.9438445;
 			flykingViews[0].setSpeed(spd);
@@ -129,7 +130,7 @@ class flykingApp extends Application.AppBase {
 			altitude = posInfo.altitude * 3.28084;
 			flykingViews[0].setAltitude(altitude);
 				
-			clockTime = Sys.getClockTime();
+			
 			posTime = clockTime.hour*3600 + clockTime.min*60 + clockTime.sec;
 			if((posTime - prevEpoch) != 0){
    				vs = (altitude - prevAlt) / (posTime - prevEpoch);
@@ -192,6 +193,8 @@ class flykingApp extends Application.AppBase {
 			vs_fit_field.setData(vs);
 			hdg_fit_field.setData(posHdg);
     	}
+
+		Ui.requestUpdate();
     }
     
     function buttonPress(){
@@ -225,12 +228,10 @@ class flykingApp extends Application.AppBase {
     }
     
 	function onPosition(info){
-		flykingViews[0].setPosition(info);
 		posInfo = info;
 	}
 	
 	function onSensor(sensorInfo) {
-		flykingViews[0].setSensor(sensorInfo);
 		sensInfo = sensorInfo;
 	}
 }
